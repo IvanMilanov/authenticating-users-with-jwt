@@ -1,0 +1,12 @@
+{
+    "name": "john/authenticating-users-with-jwt",
+    "authors": [
+        {
+            "name": "Ivan Milanov",
+            "email": "phpmilanov@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    }
+}
